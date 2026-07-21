@@ -132,7 +132,7 @@ done
 
 echo -e "${GREEN}[✓] Runtime initialized successfully${RESET}"
 echo -e "${GREEN}[✓] Container environment ready${RESET}"
-echo -e "${GREEN}[✓] Powered by Gorrila Coderz${RESET}"
+echo -e "${GREEN}[✓] Made By NEELCRAFT${RESET}"
 
 echo
 echo -e "${MAGENTA}═══════════════════════════════════════════════${RESET}"
